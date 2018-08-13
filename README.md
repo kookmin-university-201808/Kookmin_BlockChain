@@ -3,7 +3,11 @@
 ----------
 개요
 --
+![jobs](https://user-images.githubusercontent.com/20515076/44042379-0e3cdc62-9f5b-11e8-8ba9-26e3c4adc77d.jpeg)
+
 유권자 한명의 투표를 위해 평균 2만 5천원이 사용되고, 실제 투표소 등등 각종 투표를 위해 준비되는 총 비용은 1조 700억원 정도의 예산이 투입됩니다. 
+
+![tree](https://user-images.githubusercontent.com/20515076/44042347-fa2cc444-9f5a-11e8-9e8c-8ad5837c49bd.jpeg)
 
 이때 선거에 사용되는 투표용지는 약 1만 5000톤에 달하는데, 이는 총 360,000그루의 나무를 베는것과 같습니다.
 
